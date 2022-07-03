@@ -1,1 +1,2 @@
-# alx-higher_level_programming
+#!/bin/bash
+alx-higher_level_programming
